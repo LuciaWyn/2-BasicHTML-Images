@@ -1,4 +1,1 @@
-"# basicHTML_Images" 
-"# basicHTML_Images" 
-"# basicHTML_Images" 
-"# 2-Images" 
+These HTML documents display images. This is done for my private tutoring.
